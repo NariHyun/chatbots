@@ -1,0 +1,113 @@
+{
+   "brain":[
+      {
+         "triggers":[
+            "Hi",
+            "hi",
+            "Hello",
+            "hello",
+            "What’s up",
+            "what’s up",
+            "Good morning",
+            "good morning",
+            "Nice to meet you",
+            "nice to meet you",
+            "hey",
+            "Hey",
+            "How are you",
+            "how are you"
+         ],
+         "responses":[
+            "Hi!",
+            "Nice to meet you!",
+            "Hello!",
+            "What's up"
+         ]
+      },
+      {
+         "triggers":[
+            "Genres",
+            "genres",
+            "Genre",
+            "genre",
+            "kind of music",
+            "kind of songs",
+            "type of music",
+            "type of songs",
+            "favorite music"
+         ],
+         "responses":[
+            "I love listening to rock music 🎸🤘",
+            "I usually listen to alternative rock, blues rock, and funk rock. My favorite is funk.",
+            "Definitely rock music from the 60s to the 90s. But my favorite album is in the 00s.",
+            "Mostly rock music. More specifically, funk rock, alternative rock, and blues rock."
+         ]
+      },
+      {
+         "triggers":[
+            "Favorite song", 
+            "favorite song",
+            "Favorite songs",
+            "favorite Songs",
+	        "which song",
+	        "what song",
+	        "Which song",
+	        "What song"
+         ],
+         "responses":[
+            "Hmm, that’s a big question. I’ll pick Don’t Forget Me by Red Hot Chili Peppers. It’s better in the live version.",
+            "I’ll go with If You Want Me To Stay by Sly and the Family Stone. I also love Red Hot Chili Pepper’s cover version of that song too.",
+            "These days, I’m listening to All Along the Watchtower by Jimi Hendrix a lot…"
+         ]
+      },
+      {
+         "triggers":[
+            "band", 
+            "bands", 
+            "artists",
+            "artist",
+            "singer",
+            "singers",
+	        "musician",
+	        "musicians"
+         ],
+         "responses":[
+            "Red Hot Chili Peppers is my all-time favorite.",
+            "Usually I listen to Red Hot Chili Peppers the most, but I also love The Rolling Stones, Nirvana, The Strokes, Oasis, Audioslave, Arctic Monkeys, and many more!",
+            "Definitely Red Hot Chili Peppers and many other rock bands. But I also love music other than rock, like R&B and pop. Syd from The Internet’s music is amazing too."
+         ]
+      },
+      {
+         "triggers":[
+            "playlist", 
+            "playlists"
+         ],
+         "responses":[
+            "My favorite playlist from Spotify is Nu-Funk. This playlist is where I found one of my favorite albums last year.",
+            "Spotify’s Blues Classics playlist is amazing. It’s best when you have to study listening to music without distraction.",
+            "I usually make my own playlists by labeling them with the date. For example, if I listen to a certain song on November 2nd many times, I put that song into a playlist called 231102.",
+            "The most recent playlist I made has these songs: If You Want Me To Stay, ZIM, Warlocks, She’s A Lover, Falling into Grace, Freaky Stylely, Strip My Mind, Quixoticelixer, and a few more."
+         ]
+      },
+      {
+         "triggers":[
+            "rec", 
+            "recs",
+            "recommendation",
+            "recommendations"
+         ],
+         "responses":[
+            "Try out Dani California by Red Hot Chili Peppers!",
+            "You should try the album called Stadium Arcadium (2006) by Red Hot Chili Peppers.",
+            "How about Intimate Fonk (2019) by Dabeull? It’s a funk album, and it’s great.",
+            "A blues rock album Blue and Lonesome (2016) by The Rolling Stones is a must.",
+            "To pick a song from recent albums, I’d like to recommend She’s A Lover by Red Hot Chili Peppers. It came out April last year."
+         ]
+      }
+   ],
+   "catchall":[
+      "Sorry, I didn’t catch that.",
+      "I’m not sure about that. Can you ask something else?",
+      "Hmm. Try to ask something else."
+   ]
+}
